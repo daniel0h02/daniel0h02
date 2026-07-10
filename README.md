@@ -143,34 +143,6 @@
   </tr>
 </table>
 
---
-
-## 💻 Projects
-
-### Habit Challenge Tracker  
-**습관 챌린지 관리 웹 서비스**
-
-- Spring Boot 기반 백엔드 개발
-- 댓글 CRUD 기능 개발
-- 대시보드 및 랭킹 기능 개발
-- JWT 인증 및 Redis 토큰 관리 흐름 이해
-- Swagger 기반 API 명세 관리
-- 팀장 역할로 기능 분담 및 일정 관리 수행
-
-<br/>
-
-### Financial Schedule Reminder  
-**납부 일정 및 금융 일정 관리 서비스**
-
-- 금융 일정 등록, 조회, 수정, 삭제 API 개발
-- 납부 기한 기준 임박/연체 상태 관리
-- REST API 및 DB 연동
-- Controller, Service, Repository 계층 구조 기반 개발
-
-<br/>
-
----
-
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h2>
   <br/>
