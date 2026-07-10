@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=daniel0h02&label=%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=daniel0h02&label=Profiles%20views&color=0e75b6&style=flat" />
 </div>
 
 
