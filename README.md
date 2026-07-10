@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=우당탕탕%20오찬경입니다🧑‍💻&animation=&fontColor=ffffff&fontSize=40" />
+    </div>
+
+
 <div align="center">
 
 ## 안녕하세요, 오찬경입니다 👋
