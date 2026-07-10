@@ -1,12 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4037,100:2E8B57&height=180&text=AI%20Agent%20%26%20Backend%20Developer&animation=fadeIn&fontColor=ffffff&fontSize=38" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4037,100:2E8B57&height=180&section=header&text=AI%20Agent%20%26%20Backend%20Developer&fontSize=38&fontColor=ffffff" />
+</p>
 
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaniel0h02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaniel0h02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  </a>
+</p>
 
 <div align="center">
 
@@ -137,3 +137,9 @@ AI Agent와 백엔드 개발을 중심으로 성장하고 있는 개발자입니
 </a>
 
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4037,100:2E8B57&height=120&section=footer" />
+</p>
