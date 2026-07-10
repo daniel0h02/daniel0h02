@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=우당탕탕%20오찬경입니다🧑‍💻&animation=&fontColor=ffffff&fontSize=40" />
 </div>
 
+
 <div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaniel0h02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  <img src="https://komarev.com/ghpvc/?username=daniel0h02&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
+
 
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">개발자의 개발자를 꿈꾸다</h2>  
