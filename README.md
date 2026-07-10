@@ -1,29 +1,21 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4037,100:2E8B57&height=180&section=header&text=AI%20Agent%20%26%20Backend%20Developer&fontSize=38&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaniel0h02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-  </a>
-</p>
-
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=우당탕탕%20오찬경입니다🧑‍💻&animation=&fontColor=ffffff&fontSize=40" />
-    </div>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=우당탕탕%20오찬경입니다🧑‍💻&animation=&fontColor=ffffff&fontSize=40" />
+</div>
 
 <div align="center">
 
-## 안녕하세요, 오찬경입니다 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaniel0h02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-AI Agent와 백엔드 개발을 중심으로 성장하고 있는 개발자입니다.  
-사용자의 자연어 요청을 실제 서비스 기능으로 연결하고,  
-데이터 기반으로 신뢰할 수 있는 결과를 제공하는 개발에 관심이 있습니다.
+</div>
 
-특히 **FastAPI, Spring Boot, PostgreSQL, pgvector**를 활용해  
-자연어 기반 사원 검색과 사원 역량 분석 기능을 구현한 경험이 있습니다.
+<div align="center"> 
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">개발자의 개발자를 꿈꾸다</h2>  
 
+  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
+    저의 목표는 업계에서 가장 먼저 떠오르는 개발자가 되는 것입니다.<br/>
+    혼자 잘하는 것보다 함께 잘하는 팀을 만드는 것,<br/>
+    그렇게 쌓은 신뢰가 결국 좋은 개발자를 키우고 좋은 서비스로 이어진다고 믿습니다.
+  </div> 
 </div>
 
 <br/>
@@ -50,39 +42,34 @@ AI Agent와 백엔드 개발을 중심으로 성장하고 있는 개발자입니
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
+  <br/>
 
-### Backend
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-
-### Frontend
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-
-### Database
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
-
-### AI
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
-
-### Infra & Tools
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+  <div style="margin: 0 auto; text-align: center;" align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
+    <br/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+    <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+  </div>
+</div>
 
 <br/>
 
@@ -127,24 +114,19 @@ AI Agent와 백엔드 개발을 중심으로 성장하고 있는 개발자입니
 
 ---
 
-## 📫 Contact
-
 <div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h2>
+  <br/>
 
-<a href="https://godsprogram0127.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white">
-</a>
-<a href="https://lacy-antique-2df.notion.site/1d4419a2877282589dec81a9dc852251">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white">
-</a>
-<a href="mailto:daniel6512@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white">
-</a>
-
+  <div align="center">
+    <a href="https://godsprogram0127.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white">
+    </a>
+    <a href="https://lacy-antique-2df.notion.site/1d4419a2877282589dec81a9dc852251">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+    </a>
+    <a href="mailto:daniel6512@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
+    </a>
+  </div>
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4037,100:2E8B57&height=120&section=footer" />
-</p>
