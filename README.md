@@ -20,27 +20,16 @@
 
 <br/>
 
----
 
-## 🚀 Main Project
+## 🚀 Projects
 
-### Squadify  
-**AI 기반 사원 역량 분석 및 팀 매칭 HR 플랫폼**
+| Project | Description | Role |
+|---|---|---|
+| **Squadify** | AI 기반 사원 검색 및 역량 분석 HR 플랫폼 | AI 서버, 사원 검색, 역량 분석 |
+| **Habit Challenge Tracker** | 습관 챌린지 관리 웹 서비스 | 백엔드, 댓글, 대시보드 |
+| **Financial Schedule Reminder** | 납부 일정 및 금융 일정 관리 서비스 | 백엔드, 일정 CRUD, 상태 관리 |
 
-- 자연어 기반 사원 검색 기능 개발
-- AI Agent 기반 사원 역량 분석 기능 개발
-- RDB 조건 검색과 pgvector 기반 Vector 유사도 검색 결합
-- Sub Agent / Root Agent 구조 설계
-- Golden DB 기반 평가 검증 및 정확도 개선
-- FastAPI 기반 AI 서버 개발
-- Jira, 데일리 스크럼, 기능 명세서, API 명세서, ERD 기반 협업 진행
 
-> 단순 LLM 호출이 아니라, 프로젝트 경험 데이터와 기술 활용 이력을 기반으로  
-> 신뢰할 수 있는 사원 검색 및 역량 분석 결과를 제공하는 구조를 설계했습니다.
-
-<br/>
-
----
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
