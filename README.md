@@ -10,8 +10,6 @@ AI Agent와 백엔드 개발을 중심으로 성장하고 있는 개발자입니
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
