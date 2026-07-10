@@ -20,16 +20,36 @@
 
 <br/>
 
+---
 
 ## 🚀 Projects
 
-| Project | Description | Role |
-|---|---|---|
-| **Squadify** | AI 기반 사원 검색 및 역량 분석 HR 플랫폼 | AI 서버, 사원 검색, 역량 분석 |
-| **Habit Challenge Tracker** | 습관 챌린지 관리 웹 서비스 | 백엔드, 댓글, 대시보드 |
-| **Financial Schedule Reminder** | 납부 일정 및 금융 일정 관리 서비스 | 백엔드, 일정 CRUD, 상태 관리 |
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Squadify</b></td>
+    <td>AI 기반 사원 검색 및 역량 분석 HR 플랫폼</td>
+    <td>AI 서버, 사원 검색, 역량 분석</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Habit Challenge Tracker</b></td>
+    <td>습관 챌린지 관리 웹 서비스</td>
+    <td>백엔드, 댓글, 대시보드</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Financial Schedule Reminder</b></td>
+    <td>납부 일정 및 금융 일정 관리 서비스</td>
+    <td>백엔드, 일정 CRUD, 상태 관리</td>
+  </tr>
+</table>
 
+<br/>
 
+---
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
@@ -66,7 +86,7 @@
     <td align="center"><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
-      <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=black">
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
     </td>
@@ -132,6 +152,10 @@
   </tr>
 </table>
 
+<br/>
+
+---
+
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h2>
   <br/>
@@ -141,7 +165,7 @@
       <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white">
     </a>
     <a href="https://lacy-antique-2df.notion.site/1d4419a2877282589dec81a9dc852251">
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white">
     </a>
     <a href="mailto:daniel6512@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
